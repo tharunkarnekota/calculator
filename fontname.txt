@@ -1,0 +1,8 @@
+https://s3.ap-south-1.amazonaws.com/cdn.stunnr.co/assets/fonts/Afacad-Medium.ttf
+https://s3.ap-south-1.amazonaws.com/cdn.stunnr.co/assets/fonts/Afacad-SemiBold.ttf
+https://s3.ap-south-1.amazonaws.com/cdn.stunnr.co/assets/fonts/Afacad-Bold.ttf
+https://s3.ap-south-1.amazonaws.com/cdn.stunnr.co/assets/fonts/Afacad-Regular.ttf
+https://s3.ap-south-1.amazonaws.com/cdn.stunnr.co/assets/fonts/Afacad-RegularItalic.ttf
+https://s3.ap-south-1.amazonaws.com/cdn.stunnr.co/assets/fonts/Afacad-MediumItalic.ttf
+https://s3.ap-south-1.amazonaws.com/cdn.stunnr.co/assets/fonts/Afacad-SemiBoldItalic.ttf
+https://s3.ap-south-1.amazonaws.com/cdn.stunnr.co/assets/fonts/Afacad-BoldItalic.ttf
